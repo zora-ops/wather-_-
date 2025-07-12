@@ -1,12 +1,11 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Wather -_-
+So right now the logic of this wather app is build jsut , the only thing that remains is styling ,
+|
+|
+|
+If you have seen my previous repo's would know that how bad i m at styling like really bad,
+but this time i won't do that , i m taking this slow maybe just a small project may take a while , but i'll learn styling alongside building this web-app and when the app is done i'll update the readme explaining all the feature and the logic Too.
+|
+|
+|
+Until then seya
